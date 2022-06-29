@@ -1,0 +1,4 @@
+[submodule "Micronaet/micronaet-logistic"]
+	path = Micronaet/micronaet-logistic
+	url = git@github.com:Micronaet/micronaet-logistic.git
+	branch = creazione_resi_mago
