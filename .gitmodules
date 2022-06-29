@@ -7,3 +7,8 @@
 	path = RLJO/micronaet-docnaet
 	url = git@github.com:RLJO/micronaet-docnaet.git
 	branch = master
+
+[submodule "RLJO/hr_test_14"]
+	path = RLJO/hr_test_14
+	url = git@github.com:RLJO/hr_test_14.git
+	branch = main
