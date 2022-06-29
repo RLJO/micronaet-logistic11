@@ -2,3 +2,8 @@
 	path = Micronaet/micronaet-logistic
 	url = git@github.com:Micronaet/micronaet-logistic.git
 	branch = creazione_resi_mago
+
+[submodule "RLJO/micronaet-docnaet"]
+	path = RLJO/micronaet-docnaet
+	url = git@github.com:RLJO/micronaet-docnaet.git
+	branch = master
